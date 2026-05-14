@@ -28,7 +28,7 @@ A modern Spotify-inspired music player built using HTML, CSS, and Vanilla JavaSc
 
 📸 Project Screenshot
 
-!["Spotify Clone"] (screenshot.png)
+![Spotify Clone](screenshot.png)
 
 ---
 
